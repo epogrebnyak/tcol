@@ -3,9 +3,8 @@
 - [Back of napkin](#back-of-napkin)
 - [Econometrics](#econometrics)
 - [ML](#ml)
-  - ["Flat-earth" ML](#flat-earth-ml)
 
-## Geospatial
+# Geospatial
 
 #### Night GDP
 
@@ -14,7 +13,7 @@
 
 
 
-## Freelance
+# Freelance
 
 #### Problem scope
 
@@ -22,21 +21,21 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-## Back of napkin
+# Back of napkin
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Too bad we do not have a price index for that. Or there is one? <a href="https://t.co/mwQDNTr9Al">https://t.co/mwQDNTr9Al</a></p>&mdash; Evgeny Pogrebnyak (@PogrebnyakE) <a href="https://twitter.com/PogrebnyakE/status/1352546296347971584?ref_src=twsrc%5Etfw">January 22, 2021</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-## Econometrics
+# Econometrics
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">You can find youtube tutorials of Fabio Canova and Filippo Ferroni Empirical macro toolbox<a href="https://t.co/ChPqatfH2O">https://t.co/ChPqatfH2O</a><br>👇👇👇<a href="https://t.co/59YZzYyayW">https://t.co/59YZzYyayW</a><a href="https://twitter.com/hashtag/EconTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#EconTwitter</a> <a href="https://twitter.com/hashtag/Econometrics?src=hash&amp;ref_src=twsrc%5Etfw">#Econometrics</a> <a href="https://twitter.com/hashtag/VAR?src=hash&amp;ref_src=twsrc%5Etfw">#VAR</a> <a href="https://twitter.com/hashtag/EmpiricalMacro?src=hash&amp;ref_src=twsrc%5Etfw">#EmpiricalMacro</a> <a href="https://twitter.com/hashtag/PhDEconomics?src=hash&amp;ref_src=twsrc%5Etfw">#PhDEconomics</a> <br>.<a href="https://twitter.com/FAppliedmacro?ref_src=twsrc%5Etfw">@FAppliedmacro</a></p>&mdash; Alessia Paccagnini 👩‍🏫📚💶📈💻🍕⚽🐱🐶🎥 🎶🌍 (@Alessia_metrics) <a href="https://twitter.com/Alessia_metrics/status/1352296926578937857?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-## ML
+# ML
 
-### "Flat-earth" ML
+#### "Flat-earth" ML
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The problem with ML education is the assumption that datasets are static, and models are the only way to make progress.<br><br>Thinking that training is the last step is kind of like thinking the world is flat. Just because you can&#39;t see the outer loop doesn&#39;t mean it&#39;s not there :) <a href="https://t.co/ezPtK5fS97">pic.twitter.com/ezPtK5fS97</a></p>&mdash; Josh Tobin (@josh_tobin_) <a href="https://twitter.com/josh_tobin_/status/1352350403304677376?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
