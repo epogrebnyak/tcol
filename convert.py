@@ -51,15 +51,19 @@ def substitute_tweets(line: str) -> str:
 
 
 def main(source_file="_README.md", destination_file="README.md"):
+    # read and sort blocks
     doc = Path(source_file).read_text()
     lines = to_list(doc)
     groups = [group for group in yield_groups(lines) if group]
     groups = sorted(groups, key = lambda xs: xs[0])
     lines = [line for group in groups for line in group]
+    # create toc via temp file
     text = "\n".join(lines)
     Path("tempfile.txt").write_text(text, encoding="utf-8")    
     toc = md_toc.build_toc("tempfile.txt")
-    lines = list(map(substitute_tweets, lines))
+    # make cards
+    lines = list(map(substitute_tweets, lines))    
+    # save
     body = "\n".join(lines)    
     text = "\n".join([toc, body])
     Path(destination_file).write_text(text, encoding="utf-8")
