@@ -1,6 +1,7 @@
-import md_toc
 from dataclasses import dataclass
 from pathlib import Path
+
+import md_toc  # type: ignore
 import requests
 
 URL = "https://twitter.com/{name}/status/{id}"
