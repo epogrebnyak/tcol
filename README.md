@@ -4,7 +4,7 @@
 - [Econometrics](#econometrics)
 - [ML](#ml)
   - ["Flat-earth" ML](#flat-earth-ml)
-  
+
 ## Geospatial
 
 #### Night GDP
