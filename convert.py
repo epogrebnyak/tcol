@@ -47,11 +47,15 @@ def substitute_tweets(line: str) -> str:
         return line
 
 
-source_file = "_README.md"
-dst_file = "README.md"
+def main(source_file="_README.md", destination_file="README.md"):
+    doc = Path(source_file).read_text()
+    toc = md_toc.build_toc(source_file)
+    lines = [toc] + to_list(doc)
+    lines = list(map(substitute_tweets, lines))
+    text = "\n".join(lines)
+    Path(destination_file).write_text(text, encoding="utf-8")
+    return lines
 
-doc = Path(source_file).read_text()
-toc = md_toc.build_toc(source_file)
-lines = map(substitute_tweets, [toc] + to_list(doc))
-text = "\n".join(lines)
-Path(dst_file).write_text(text, encoding="utf-8")
+
+if __name__ == "__main__":
+    main()
