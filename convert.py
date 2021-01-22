@@ -40,7 +40,11 @@ def substitute_tweets(line: str) -> str:
    else:
      return line
 
+import md_toc
+
 doc = Path("_README.md").read_text()
+toc = md_toc.build_toc("_README.md")
+print(toc)
 lines = map(substitute_tweets, to_list(doc))
 text = "\n".join(lines) 
 Path("README.md").write_text(text, encoding="utf-8")     

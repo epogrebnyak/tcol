@@ -1,3 +1,10 @@
+- [Geospatial](#geospatial)
+- [Freelance](#freelance)
+- [Back of napkin](#back-of-napkin)
+- [Econometrics](#econometrics)
+- [ML](#ml)
+  - ["Flat-earth" ML](#flat-earth-ml)
+  
 ## Geospatial
 
 #### Night GDP
