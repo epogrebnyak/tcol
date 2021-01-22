@@ -1,32 +1,15 @@
-- [Geospatial](#geospatial)
-- [Freelance](#freelance)
 - [Back of napkin calculations](#back-of-napkin-calculations)
 - [Econometrics](#econometrics)
+- [Freelance](#freelance)
+- [Geospatial](#geospatial)
+- [IT](#it)
 - [Linear algebra](#linear-algebra)
+- [ML](#ml)
 - [Probabilistic programming](#probabilistic-programming)
 - [Risk management](#risk-management)
-- [ML](#ml)
-- [Teaching economics](#teaching-economics)
-- [IT](#it)
 - [System dynamics](#system-dynamics)
+- [Teaching economics](#teaching-economics)
 - [Visual](#visual)
-
-# Geospatial
-
-#### Night GDP
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Are night lights (NL) a reliable proxy for local GDP?<br><br>An answer, in our paper “Development Research at High Geographic Resolution” aka the SHRUG paper (forthcoming at WBER). 🧵1/14<br><br>TL;DR: don’t trust existing GDP elasticities. With <a href="https://twitter.com/paulnovosad?ref_src=twsrc%5Etfw">@paulnovosad</a> @tobiaslunt <a href="https://twitter.com/ryu_matsuura?ref_src=twsrc%5Etfw">@ryu_matsuura</a> <a href="https://t.co/dpRUy5Hjvy">pic.twitter.com/dpRUy5Hjvy</a></p>&mdash; Sam Asher (@thesamasher) <a href="https://twitter.com/thesamasher/status/1352359375155859456?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-# Freelance
-
-#### Problem scope
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Instead of proposing to do something for no money, that&#39;s easy, in exchange for learning, I&#39;d really recommend people ask folks they want to work with &quot;What hard thing do you have no time for that I could go research &amp; figure out?&quot;<br><br>I am always willing to pay people for outcomes.</p>&mdash; Suhail (@Suhail) <a href="https://twitter.com/Suhail/status/1352321633701122048?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 # Back of napkin calculations
 
@@ -45,9 +28,40 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+# Freelance
+
+#### Problem scope
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Instead of proposing to do something for no money, that&#39;s easy, in exchange for learning, I&#39;d really recommend people ask folks they want to work with &quot;What hard thing do you have no time for that I could go research &amp; figure out?&quot;<br><br>I am always willing to pay people for outcomes.</p>&mdash; Suhail (@Suhail) <a href="https://twitter.com/Suhail/status/1352321633701122048?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+# Geospatial
+
+#### Night GDP
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Are night lights (NL) a reliable proxy for local GDP?<br><br>An answer, in our paper “Development Research at High Geographic Resolution” aka the SHRUG paper (forthcoming at WBER). 🧵1/14<br><br>TL;DR: don’t trust existing GDP elasticities. With <a href="https://twitter.com/paulnovosad?ref_src=twsrc%5Etfw">@paulnovosad</a> @tobiaslunt <a href="https://twitter.com/ryu_matsuura?ref_src=twsrc%5Etfw">@ryu_matsuura</a> <a href="https://t.co/dpRUy5Hjvy">pic.twitter.com/dpRUy5Hjvy</a></p>&mdash; Sam Asher (@thesamasher) <a href="https://twitter.com/thesamasher/status/1352359375155859456?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+# IT
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Problem-solving is central to IT - there so much to learn about technology, so that the end-goal sometimes fades. Surprisingly, the solution can be no-code and no-software, which can be hard to admit. <a href="https://t.co/tfXnK6GU94">https://t.co/tfXnK6GU94</a></p>&mdash; Evgeny Pogrebnyak (@PogrebnyakE) <a href="https://twitter.com/PogrebnyakE/status/1352229051931484161?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 # Linear algebra
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Probably one of the best free resources I&#39;ve found online!<br><br>An introduction to linear algebra for machine learning with Python 🐍.<br><br>Bookmark this link in your browser and use it as a reference whenever you need it.<br> <a href="https://t.co/n6qjJ3KXvi">https://t.co/n6qjJ3KXvi</a> via <a href="https://twitter.com/CodeBug88?ref_src=twsrc%5Etfw">@CodeBug88</a> <a href="https://t.co/PIP90trXCo">pic.twitter.com/PIP90trXCo</a></p>&mdash; Santiago (@svpino) <a href="https://twitter.com/svpino/status/1351401752243929089?ref_src=twsrc%5Etfw">January 19, 2021</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+# ML
+
+#### "Flat-earth" ML
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The problem with ML education is the assumption that datasets are static, and models are the only way to make progress.<br><br>Thinking that training is the last step is kind of like thinking the world is flat. Just because you can&#39;t see the outer loop doesn&#39;t mean it&#39;s not there :) <a href="https://t.co/ezPtK5fS97">pic.twitter.com/ezPtK5fS97</a></p>&mdash; Josh Tobin (@josh_tobin_) <a href="https://twitter.com/josh_tobin_/status/1352350403304677376?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -63,11 +77,9 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-# ML
+# System dynamics
 
-#### "Flat-earth" ML
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The problem with ML education is the assumption that datasets are static, and models are the only way to make progress.<br><br>Thinking that training is the last step is kind of like thinking the world is flat. Just because you can&#39;t see the outer loop doesn&#39;t mean it&#39;s not there :) <a href="https://t.co/ezPtK5fS97">pic.twitter.com/ezPtK5fS97</a></p>&mdash; Josh Tobin (@josh_tobin_) <a href="https://twitter.com/josh_tobin_/status/1352350403304677376?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Systems thinking &amp; complexity theory - wrangling with wicked problems. <br>Then came across a black &amp; white recorded lecture from 1977 by Donella Meadows, talk about being ahead of her time, pre-YouTube. She used physical transparency slides too - <a href="https://t.co/x6v1agrw9T">https://t.co/x6v1agrw9T</a></p>&mdash; Dawn Ahukanna (@dawnahukanna) <a href="https://twitter.com/dawnahukanna/status/1352006335160791043?ref_src=twsrc%5Etfw">January 20, 2021</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -77,21 +89,10 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-# IT
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Problem-solving is central to IT - there so much to learn about technology, so that the end-goal sometimes fades. Surprisingly, the solution can be no-code and no-software, which can be hard to admit. <a href="https://t.co/tfXnK6GU94">https://t.co/tfXnK6GU94</a></p>&mdash; Evgeny Pogrebnyak (@PogrebnyakE) <a href="https://twitter.com/PogrebnyakE/status/1352229051931484161?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-# System dynamics
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Systems thinking &amp; complexity theory - wrangling with wicked problems. <br>Then came across a black &amp; white recorded lecture from 1977 by Donella Meadows, talk about being ahead of her time, pre-YouTube. She used physical transparency slides too - <a href="https://t.co/x6v1agrw9T">https://t.co/x6v1agrw9T</a></p>&mdash; Dawn Ahukanna (@dawnahukanna) <a href="https://twitter.com/dawnahukanna/status/1352006335160791043?ref_src=twsrc%5Etfw">January 20, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 # Visual
 
 #### US MWe
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Solar?src=hash&amp;ref_src=twsrc%5Etfw">#Solar</a> will account for the largest share of planned new U.S. <a href="https://twitter.com/hashtag/electricity?src=hash&amp;ref_src=twsrc%5Etfw">#electricity</a> capacity in 2021, growing by 39%. <a href="https://twitter.com/hashtag/Windenergy?src=hash&amp;ref_src=twsrc%5Etfw">#Windenergy</a> capacity will increase by 31% in 2021. <a href="https://t.co/DhAS8kUjMT">https://t.co/DhAS8kUjMT</a> <a href="https://t.co/vjdjEfZvqM">pic.twitter.com/vjdjEfZvqM</a></p>&mdash; EIA (@EIAgov) <a href="https://twitter.com/EIAgov/status/1352323828534415360?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
