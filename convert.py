@@ -7,6 +7,8 @@ import requests
 URL = "https://twitter.com/{name}/status/{id}"
 API = "https://publish.twitter.com/oembed?url={url}"
 
+import requests_cache
+requests_cache.install_cache("tweets.sqlite")
 
 @dataclass
 class Tweet:
@@ -38,7 +40,7 @@ def mk_tweet(s: str) -> Tweet:
 
 
 def to_list(doc: str):
-    return doc.split("\n")
+    return [x.strip() for x in doc.split("\n")]
 
 
 def substitute_tweets(line: str) -> str:
@@ -50,13 +52,30 @@ def substitute_tweets(line: str) -> str:
 
 def main(source_file="_README.md", destination_file="README.md"):
     doc = Path(source_file).read_text()
-    toc = md_toc.build_toc(source_file)
-    lines = [toc] + to_list(doc)
-    lines = list(map(substitute_tweets, lines))
+    lines = to_list(doc)
+    groups = [group for group in yield_groups(lines) if group]
+    groups = sorted(groups, key = lambda xs: xs[0])
+    lines = [line for group in groups for line in group]
     text = "\n".join(lines)
+    Path("tempfile.txt").write_text(text, encoding="utf-8")    
+    toc = md_toc.build_toc("tempfile.txt")
+    lines = list(map(substitute_tweets, lines))
+    body = "\n".join(lines)    
+    text = "\n".join([toc, body])
     Path(destination_file).write_text(text, encoding="utf-8")
     return lines
 
 
+def yield_groups(lines):
+    group = []
+    for line in lines:
+        if line.startswith("# "):
+            yield group
+            group = [line]
+        else:
+            group += [line]
+    
+
 if __name__ == "__main__":
-    main()
+    lines = main()
+    
