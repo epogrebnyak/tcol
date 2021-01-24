@@ -83,17 +83,20 @@ def sort_blocks(doc):
 
 def count_tweets(lines):
     return len(list(filter(is_tweet_url, lines)))
-    
-def create_output(doc: str):    
+
+def mk_toc(doc):
     # create toc via temp file (that is how md_toc.build_toc works)
     text = sort_blocks(doc)
     Path("tempfile.txt").write_text(text, encoding="utf-8")    
-    toc = md_toc.build_toc("tempfile.txt")
+    return md_toc.build_toc("tempfile.txt")
+
+def all_tweets(doc):
+    return list(map(mk_tweet, filter(is_tweet_url, to_list(doc))))
     
+def create_output(doc: str):  
+    toc =  mk_toc(doc)    
     # make cards
-    lines = to_list(doc)
-    lines = list(map(substitute_tweets, lines))    
-    
+    lines = list(map(substitute_tweets, to_list(doc)))        
     # combine toc and body
     body = "\n".join(lines)    
     return "\n".join([toc, body])
@@ -109,5 +112,6 @@ def main(source_file="_README.md", destination_file="README.md"):
 if __name__ == "__main__":
     doc, text = main(source_file="_README.md", destination_file="README.md")
     lines = to_list(doc)
-    print(count_tweets(lines))
-    
+    print(count_tweets(lines), "tweets")    
+    print(len(sorted(set([t.name for t in all_tweets(doc)]))), "by authors on ")
+    print(len(mk_toc(doc).split("\n"))-1, "topics")
