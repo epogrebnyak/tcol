@@ -4,6 +4,7 @@ Also sorts H1 headers.
 """
 from dataclasses import dataclass
 from pathlib import Path
+from datetime import timedelta
 
 import md_toc  # type: ignore
 import requests
@@ -12,7 +13,7 @@ URL = "https://twitter.com/{name}/status/{id}"
 API = "https://publish.twitter.com/oembed?url={url}"
 
 import requests_cache
-requests_cache.install_cache("tweets")
+requests_cache.install_cache("tweets", expire_after = timedelta(days=30))
 
 @dataclass
 class Tweet:
