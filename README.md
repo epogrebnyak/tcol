@@ -63,12 +63,15 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-#### CI energy consumption
+#### CI and datacenter energy consumption
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">While I really like <a href="https://twitter.com/hashtag/GithubActions?src=hash&amp;ref_src=twsrc%5Etfw">#GithubActions</a> and Gitlab <a href="https://twitter.com/hashtag/CI?src=hash&amp;ref_src=twsrc%5Etfw">#CI</a>, I do wonder: What about sustainability/energy consumption? Is this an issue devs/devops should consider? Is it already adressed by <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a> <a href="https://twitter.com/gitlab?ref_src=twsrc%5Etfw">@gitlab</a>? <a href="https://twitter.com/hashtag/webdev?src=hash&amp;ref_src=twsrc%5Etfw">#webdev</a> <a href="https://twitter.com/hashtag/sustainability?src=hash&amp;ref_src=twsrc%5Etfw">#sustainability</a> <a href="https://twitter.com/hashtag/bitsbaume?src=hash&amp;ref_src=twsrc%5Etfw">#bitsbaume</a> <a href="https://twitter.com/hashtag/gitlab?src=hash&amp;ref_src=twsrc%5Etfw">#gitlab</a> <a href="https://twitter.com/hashtag/github?src=hash&amp;ref_src=twsrc%5Etfw">#github</a> <a href="https://t.co/znUSmiiahr">pic.twitter.com/znUSmiiahr</a></p>&mdash; Matthias Andrasch ♻️ (@m_andrasch) <a href="https://twitter.com/m_andrasch/status/1289491248076660736?ref_src=twsrc%5Etfw">August 1, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Does anyone know of a good back-of-the-envelope estimate of the environmental impact of continuous integration?</p>&mdash; Seth Axen 🪓 (@sethaxen) <a href="https://twitter.com/sethaxen/status/1344159193289256960?ref_src=twsrc%5Etfw">December 30, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And for those who wonder about it, data centers used about 2% of US and global electricity circa 2005, but it&#39;s now down to under 1%.</p>&mdash; Jonathan Koomey (@jgkoomey) <a href="https://twitter.com/jgkoomey/status/1347899087245475840?ref_src=twsrc%5Etfw">January 9, 2021</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
