@@ -30,10 +30,11 @@ https://twitter.com/Suhail/status/1352321633701122048
 
 https://twitter.com/Grady_Booch/status/1352298131396853760
 
-#### CI energy consumption
+#### CI and datacenter energy consumption
 
 https://twitter.com/m_andrasch/status/1289491248076660736
 https://twitter.com/sethaxen/status/1344159193289256960
+https://twitter.com/jgkoomey/status/1347899087245475840
 
 # Econometrics
 
