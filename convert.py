@@ -58,10 +58,7 @@ def to_list(doc: str):
 
 def substitute_tweets(line: str) -> str:
     """Change tweet url to html."""
-    if line.startswith("http") and ("status" in line):
-        return mk_tweet(line).html()
-    else:
-        return line
+    return mk_tweet(line).html() if is_tweet_url(line) else line
 
 def yield_groups(lines, mark="# "):
     group = []
@@ -72,6 +69,9 @@ def yield_groups(lines, mark="# "):
         else:
             group += [line]
 
+def is_tweet_url(line: str) -> bool:
+    return line.startswith("http") and ("status" in line)
+
 def sort_blocks(doc):
     """Sort H1 header blocks alphabetically."""
     lines = to_list(doc)
@@ -80,6 +80,9 @@ def sort_blocks(doc):
     lines = [line for group in groups for line in group]
     return "\n".join(lines)
 
+
+def count_tweets(lines):
+    return len(list(filter(is_tweet_url, lines)))
     
 def create_output(doc: str):    
     # create toc via temp file (that is how md_toc.build_toc works)
@@ -104,5 +107,7 @@ def main(source_file="_README.md", destination_file="README.md"):
 
 
 if __name__ == "__main__":
-    lines = main(source_file="_README.md", destination_file="README.md")
+    doc, text = main(source_file="_README.md", destination_file="README.md")
+    lines = to_list(doc)
+    print(count_tweets(lines))
     

@@ -1,8 +1,7 @@
 - [Back of napkin calculations](#back-of-napkin-calculations)
 - [Data](#data)
 - [Econometrics](#econometrics)
-- [Economics - Reading](#economics---reading)
-- [Economics - Teaching](#economics---teaching)
+- [Economics](#economics)
 - [Energy - Hydrogen](#energy---hydrogen)
 - [Forecasting](#forecasting)
 - [Freelance](#freelance)
@@ -125,13 +124,15 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-# Economics - Reading
+# Economics
+
+#### Reading
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">0/ A holiday economic theory reading list. Some of my favorite pieces on theory that can be read with minimal sweat, but with the maximal intellectual reward. In no particular order:</p>&mdash; Rohit Lamba (@rohlamba) <a href="https://twitter.com/rohlamba/status/1340196262109392896?ref_src=twsrc%5Etfw">December 19, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-# Economics - Teaching
+#### Teaching
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Turns out Journal of Economic Perspectives has a page where articles are classified by what type of econ course they could be useful for. Looking for a JEP article for your introductory or environmental course? Just two clicks and you&#39;ll get a list!<a href="https://t.co/iZl4qzZjrg">https://t.co/iZl4qzZjrg</a></p>&mdash; Tatyana Deryugina (@TDeryugina) <a href="https://twitter.com/TDeryugina/status/1352315244870311937?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

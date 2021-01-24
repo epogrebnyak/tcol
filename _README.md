@@ -68,11 +68,13 @@ https://twitter.com/gnievchenko/status/1310544553024327682
 
 https://twitter.com/freakonometrics/status/1337165366053793792
 
-# Economics - Reading
+# Economics
+
+#### Reading
 
 https://twitter.com/rohlamba/status/1340196262109392896
 
-# Economics - Teaching
+#### Teaching
 
 https://twitter.com/TDeryugina/status/1352315244870311937
 https://twitter.com/PicaultJ/status/1347607709126848513
