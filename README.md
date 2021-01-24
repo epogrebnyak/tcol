@@ -14,7 +14,6 @@
 - [Python](#python)
 - [Risk management](#risk-management)
 - [Scribbling](#scribbling)
-- [Scribbling](#scribbling-1)
 - [System dynamics](#system-dynamics)
 - [Visual](#visual)
 
@@ -214,11 +213,6 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Solar?src=hash&amp;ref_src=twsrc%5Etfw">#Solar</a> will account for the largest share of planned new U.S. <a href="https://twitter.com/hashtag/electricity?src=hash&amp;ref_src=twsrc%5Etfw">#electricity</a> capacity in 2021, growing by 39%. <a href="https://twitter.com/hashtag/Windenergy?src=hash&amp;ref_src=twsrc%5Etfw">#Windenergy</a> capacity will increase by 31% in 2021. <a href="https://t.co/DhAS8kUjMT">https://t.co/DhAS8kUjMT</a> <a href="https://t.co/vjdjEfZvqM">pic.twitter.com/vjdjEfZvqM</a></p>&mdash; EIA (@EIAgov) <a href="https://twitter.com/EIAgov/status/1352323828534415360?ref_src=twsrc%5Etfw">January 21, 2021</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-# Scribbling
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Asking speakers to submit draft slides is about the poorest progress metric you can pick. I could glue together random decent-looking slides that&#39;d make absolutely no sense. On the other hand this talk (see image) is 80% done. <a href="https://t.co/O42HNntflz">pic.twitter.com/O42HNntflz</a></p>&mdash; Gregor (@ghohpe) <a href="https://twitter.com/ghohpe/status/1351203591256756225?ref_src=twsrc%5Etfw">January 18, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 # Proofs

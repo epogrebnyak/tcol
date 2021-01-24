@@ -125,9 +125,6 @@ https://twitter.com/astro_jaz/status/1350270984163618816
 
 https://twitter.com/EIAgov/status/1352323828534415360
 
-# Scribbling
-
-https://twitter.com/ghohpe/status/1351203591256756225
 
 # Proofs
 
